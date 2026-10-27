@@ -1,0 +1,11 @@
+{
+  "name": "One4Home Wallpaper Bridge",
+  "version": "1.0.3",
+  "minimumOne4HomeVersion": "0.5.80",
+  "minimumOne4HomeVersionCode": 392,
+  "sourceCommit": "d3b9c5c0541bd771ac173a3c8543a61d7ae02f40",
+  "license": "MIT",
+  "notes": "Public versioned source distribution and compatibility issue tracking. Static wallpaper protocol and Kotlin helper unchanged.",
+  "minimumOne4HomeAndroidApi": 29,
+  "repository": "https://github.com/one4studio/one4home-wallpaper-bridge"
+}

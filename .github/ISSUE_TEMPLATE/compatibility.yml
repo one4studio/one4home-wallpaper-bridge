@@ -1,0 +1,15 @@
+name: Compatibility report
+description: Report a reproducible static-wallpaper integration issue
+body:
+  - type: textarea
+    attributes:
+      label: Versions and device
+      description: Kit version, One4Home version, Android version, device and your public app/package.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Reproduction
+      description: Steps, expected result, actual result, Home or Home + Lock. Do not include private files, credentials or unredacted logs.
+    validations:
+      required: true
